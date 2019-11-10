@@ -1,0 +1,4 @@
+student name: Ameen Farhat
+student number: 628671 
+student class: A1
+GitHub repository: https://github.com/AmeenFarhat/Ameen
